@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235517338731",
+    "project_id": "app-incidentes-a527a",
+    "storage_bucket": "app-incidentes-a527a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235517338731:android:9af2d7d94f40954a22bd2e",
+        "android_client_info": {
+          "package_name": "com.example.app_incidentes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiPiAut95cLnEq51-gwOc7ni_HSqpCaN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
